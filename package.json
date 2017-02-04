@@ -6,6 +6,7 @@
   "author": "James Kyle <me@thejameskyle.com>",
   "license": "BSD-2-Clause",
   "scripts": {
+    "format": "prettier --write src/**/*.js",
     "build": "babel src -d lib",
     "start": "babel-node src/index.js",
     "prepublish": "yarn run build"
@@ -14,6 +15,7 @@
     "babel-cli": "^6.22.2",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
-    "flow-bin": "^0.38.0"
+    "flow-bin": "^0.38.0",
+    "prettier": "^0.15.0"
   }
 }
