@@ -1,6 +1,6 @@
 {
   "name": "yarn-perf",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Yarn automated performance testing",
   "main": "lib/index.js",
   "author": "James Kyle <me@thejameskyle.com>",
