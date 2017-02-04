@@ -1,0 +1,9 @@
+[ignore]
+.*/node_modules/.*
+.*/tools/.*
+
+[include]
+
+[libs]
+
+[options]

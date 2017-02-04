@@ -1,0 +1,6 @@
+[submodule "tools/npm"]
+	path = tools/npm
+	url = git@github.com:npm/npm.git
+[submodule "tools/yarn"]
+	path = tools/yarn
+	url = git@github.com:yarnpkg/yarn.git

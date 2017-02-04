@@ -1,0 +1,19 @@
+{
+  "name": "yarn-perf",
+  "version": "0.0.0",
+  "description": "Yarn automated performance testing",
+  "main": "lib/index.js",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "build": "babel src -d lib",
+    "start": "babel-node src/index.js",
+    "prepublish": "yarn run build"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "flow-bin": "^0.38.0"
+  }
+}

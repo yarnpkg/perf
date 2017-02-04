@@ -1,0 +1,5 @@
+node_modules
+*.log
+projects/*/npm-shrinkwrap.json
+projects/*/yarn.lock
+lib
