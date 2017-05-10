@@ -1,5 +1,7 @@
 # Yarn Perf
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yarnpkg/perf.svg)](https://greenkeeper.io/)
+
 Yarn automated performance testing
 
 ---
