@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
-    "eslint": "^3.7.0",
+    "eslint": "^4.18.2",
     "eslint-plugin-babel": "^3.3.0",
     "eslint-plugin-flowtype": "^2.19.0",
     "eslint-plugin-react": "^6.3.0",
